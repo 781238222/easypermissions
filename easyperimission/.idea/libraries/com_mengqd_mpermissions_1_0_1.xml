@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.mengqd:mpermissions-1.0.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mpermissions-1.0.1.aar/c5ebeedd3d3bdc7438a303cc9d87a517/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mpermissions-1.0.1.aar/c5ebeedd3d3bdc7438a303cc9d87a517/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mengqd/mpermissions/1.0.1/d07e0d91b48571bc49da84facb9b551d3ab67a7e/mpermissions-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
